@@ -25,3 +25,20 @@ Aktuelle Jobangebote:
 
 https://itwh.de/de/unternehmen/stellenangebote-2/
 
+Das Institut für technisch-wissenschaftliche Hydrologie GmbH mit Hauptsitz in Hannover entwickelt und vertreibt innovative Desktop und Web-Anwendungen im Bereich der Starkregenmanagement/Urbanhydrologie/Smart City. Zu unseren Kunden gehören Ingenieurbüros, Stadtentwässerungsbetriebe und Verwaltungen. Wir beraten Kommunen, Landes- und Bundesbehörden bei der Digitalisierung. Zu unserem Spektrum gehören fachspezifische Webportale für Behörden und Wasserverbände. Bei Bedarf werden die Web-Anwendungen mit numerischer Simulationsmodellen und Echtzeit-Steuerungen für Prozessleitsysteme vernetzt, um die Entwässerungsinfrastruktur einer Stadt intelligent und ressourcenschonend zu nutzen.
+
+Sind Sie daran interessiert Teil unseres Teams zu werden? Zur Zeit suchen wir:
+
+SENIOR SOFTWAREENTWICKLER – APPLIKATIONSENTWICKLUNG DESKTOP (M/W/D)
+ 
+
+SYSTEMADMINISTRATOR – WINDOWS-SYSTEME (M/W/D)
+ 
+
+ANFORDERUNGSMANAGER – WEBSOFTWARE (M/W/D)
+ 
+
+SOFTWAREENTWICKLER – APPLIKATIONSENTWICKLUNG DESKTOP (M/W/D)
+ 
+
+JUNIOR QA SOFTWARE TESTER (M/W/D)
